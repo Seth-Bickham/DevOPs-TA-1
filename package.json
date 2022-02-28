@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "devops-ta-1",
+  "version": "1.0.0",
+  "description": "My name is Seth Bickham. I am a student at BYU-Idaho.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seth-Bickham/DevOPs-TA-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seth-Bickham/DevOPs-TA-1/issues"
+  },
+  "homepage": "https://github.com/Seth-Bickham/DevOPs-TA-1#readme"
+}
